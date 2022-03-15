@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;500&family=Roboto+Mono:wght@100;200;400&family=Roboto+Slab:wght@200;400&display=swap');
+
 :root{
     --button-color:#EC1A11;
 
@@ -7,6 +9,10 @@
     margin: 0;
     padding: :;
     box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', 'Roboto Mono','Roboto Slab',sans-serif;
 }
 
 /*    NAV AREA*/
